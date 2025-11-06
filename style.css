@@ -78,7 +78,7 @@ nav ul li a:hover {
 
 /* Hero */
 .hero {
-    background-image: url('https://picsum.photos/1200/600?random=7&text=Fabrica+Textil');
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/028/585/035/small/modern-textile-factory-with-automated-looms-weaving-patterns-ai-generative-photo.jpg');
     background-size: cover;
     background-position: center;
     height: 60vh;
@@ -280,4 +280,9 @@ footer {
 .iconoS {
     width: 30px;
     height: 30px;
+
+}
+.log{
+    width: auto;
+    height: 40px;
 }
