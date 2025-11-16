@@ -1,22 +1,36 @@
-// Script para manejar el formulario de contacto (simulación de envío)
-document.getElementById('contact-form').addEventListener('submit', function(event) {
-    event.preventDefault(); // Previene el envío real del formulario
+// Cargar productos desde JSON
+fetch('/products.json')
+    .then(response => response.json())
+    .then(data => {
+        const productosContainer = document.getElementById('productos');
+        data.forEach(producto => {
+            const card = document.createElement('div');
+            card.className = 'producto-card';
+            card.innerHTML = `
+                <img src="${producto.image}" alt="${producto.name}">
+                <div class="producto-info">
+                    <h3>${producto.name}</h3>
+                    <p>${producto.description}</p>
+                    <p class="producto-precio">$${producto.price}</p>
+                    <a href="https://wa.me/549XXXXXXXXXX?text=Hola,%20quiero%20información%20sobre:%20${encodeURIComponent(producto.name)}" class="btn-whatsapp" target="_blank">Consultar por WhatsApp</a>
+                </div>
+            `;
+            productosContainer.appendChild(card);
+        });
+    })
+    .catch(error => console.error('Error cargando productos:', error));
 
-    // Obtener valores del formulario
-    const nombre = document.getElementById('nombre').value;
-    const email = document.getElementById('email').value;
-    const mensaje = document.getElementById('mensaje').value;
+// Menú hamburguesa
+const hamburger = document.querySelector('.hamburger');
+const navMenu = document.querySelector('.nav-menu');
 
-    // Simulación de envío (en un sitio real, aquí iría una llamada a una API o backend)
-    alert(`Gracias, ${nombre}. Tu mensaje ha sido enviado. Email: ${email}, Mensaje: ${mensaje}`);
-
-    // Limpiar el formulario
-    document.getElementById('contact-form').reset();
+hamburger.addEventListener('click', () => {
+    navMenu.classList.toggle('active');
 });
 
-// Animaciones adicionales (opcional, para hover en productos - ya manejado en CSS, pero aquí un ejemplo de JS)
-document.querySelectorAll('.producto').forEach(producto => {
-    producto.addEventListener('mouseenter', () => {
-        // Puedes agregar lógica adicional aquí si es necesario, pero el hover está en CSS
+// Cerrar menú al hacer clic en un enlace
+document.querySelectorAll('.nav-menu a').forEach(link => {
+    link.addEventListener('click', () => {
+        navMenu.classList.remove('active');
     });
 });
