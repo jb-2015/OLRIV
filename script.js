@@ -1,5 +1,5 @@
 // Cargar productos desde JSON
-fetch('/products.json')
+fetch('products.json')
     .then(response => response.json())
     .then(data => {
         const productosContainer = document.getElementById('productos');
@@ -7,11 +7,15 @@ fetch('/products.json')
             const card = document.createElement('div');
             card.className = 'producto-card';
             card.innerHTML = `
-                <img src="${producto.image}" alt="${producto.name}">
-                <div class="producto-info">
-                    <h3>${producto.name}</h3>
-                    <p>${producto.description}</p>
-                    <p class="producto-precio">$${producto.price}</p>
+                <a href="product.html?id=${producto.id}" style="text-decoration: none; color: inherit;">
+                    <img src="${producto.image}" alt="${producto.name}">
+                    <div class="producto-info">
+                        <h3>${producto.name}</h3>
+                        <p>${producto.description}</p>
+                        <p class="producto-precio">$${producto.price}</p>
+                    </div>
+                </a>
+                <div class="producto-info" style="padding: 0 20px 20px;">
                     <a href="https://wa.me/5492664848066?text=Hola,%20quiero%20información%20sobre:%20${encodeURIComponent(producto.name)}" class="btn-whatsapp" target="_blank">Consultar por WhatsApp</a>
                 </div>
             `;

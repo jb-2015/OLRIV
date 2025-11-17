@@ -1,44 +1,35 @@
 [
     {
         "id": 1,
-        "name": "Remera basica",
+        "name": "Producto 1",
         "description": "Descripción breve del producto 1. Ideal para tus necesidades diarias.",
-        "price": 6000,
-        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop"
+        "longDescription": "Este es un producto de alta calidad diseñado para ofrecer durabilidad y comodidad. Incluye características avanzadas que lo hacen perfecto para uso diario en cualquier entorno.",
+        "price": 99.99,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop"
+        ],
+        "specs": [
+            "Material: Acero inoxidable",
+            "Peso: 500g",
+            "Dimensiones: 20x10x5 cm",
+            "Garantía: 1 año"
+        ]
     },
     {
         "id": 2,
         "name": "Producto 2",
         "description": "Descripción breve del producto 2. Calidad garantizada.",
+        "longDescription": "Producto innovador con tecnología de vanguardia. Ofrece rendimiento superior y un diseño elegante que se adapta a cualquier estilo de vida.",
         "price": 149.99,
-        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=200&fit=crop"
-    },
-    {
-        "id": 3,
-        "name": "Producto 3",
-        "description": "Descripción breve del producto 3. Innovador y moderno.",
-        "price": 79.99,
-        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=200&fit=crop"
-    },
-    {
-        "id": 4,
-        "name": "Producto 4",
-        "description": "Descripción breve del producto 4. Perfecto para cualquier ocasión.",
-        "price": 199.99,
-        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=200&fit=crop"
-    },
-    {
-        "id": 5,
-        "name": "Producto 5",
-        "description": "Descripción breve del producto 5. Duradero y elegante.",
-        "price": 129.99,
-        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=200&fit=crop"
-    },
-    {
-        "id": 6,
-        "name": "Producto 6",
-        "description": "Descripción breve del producto 6. La mejor opción del mercado.",
-        "price": 89.99,
-        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=300&h=200&fit=crop"
-    }
-]
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=200&fit=crop",
+        "gallery": [
+            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=400&fit=crop"],
+        "specs": [
+            "Material: Aluminio", 
+            "Peso: 500g",
+            "Dimensiones: 25x15x7 cm",
+            "Garantía: 2 años"
+        ] }]
