@@ -26,7 +26,7 @@
         "price": 149.99,
         "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=200&fit=crop",
         "gallery": [
-            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=400&fit=crop"],
+            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=400&fit=crop", "https://res.cloudinary.com/draqkxx49/image/upload/v1763527458/remera-basica-manga-corta-verde-militar-lava8_t4bs04.jpg"],
         "specs": [
             "Material: Aluminio", 
             "Peso: 500g",
