@@ -330,6 +330,18 @@ header .container {
     width: 30px;
     height: 30px;
 }
+ div#producto-content {
+    margin-top: 100px;
+    }
+    .gallery {
+    display: flex;
+    height: 400px;
+    gap: 10px;
+    margin-bottom: 70px;
+    }
+    img.thumbnail {
+    width: 200px;
+    }
 
 /* Responsividad */
 @media (max-width: 768px) {
@@ -380,6 +392,18 @@ header .container {
     .gallery-thumbs img {
         width: 60px;
         height: 60px;
+    }
+     div#producto-content {
+    margin-top: 100px;
+    }
+    .gallery {
+    display: flex;
+    height: 400px;
+    gap: 10px;
+    margin-bottom: 70px;
+    }
+    img.thumbnail {
+    width: 200px;
     }
 }
 
