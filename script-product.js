@@ -58,8 +58,9 @@ if (!productId) {
 
             // Poblar el contenido
             document.getElementById('producto-content').innerHTML = `
-                ${galleryHTML}
+                
                 <h1>${producto.name}</h1>
+                ${galleryHTML}
                 <p class="descripcion-larga">${producto.longDescription}</p>
                 ${specsHTML}
                 <p class="precio">$${producto.price}</p>

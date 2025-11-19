@@ -399,4 +399,17 @@ header .container {
     .product-gallery img {
         height: 250px;
     }
+
+    div#producto-content {
+    margin-top: 100px;
+    }
+    .gallery {
+    display: flex;
+    height: 400px;
+    gap: 10px;
+    margin-bottom: 70px;
+    }
+    img.thumbnail {
+    width: 200px;
+    }
 }
