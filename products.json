@@ -4,7 +4,7 @@
         "name": "Mochilas Hecho Back Pack",
         "description": "Mochila xl, con doble cierte (tapa y pricipal) ",
         "longDescription": "Abertura con cremallera de dos sentidos para acceder al compartimineto principal, bolsillo con cremallera en la parte delantera, forro de poliester con refuerzo de poliuretano, correa ajustables, acolchadas y curvadas, asa de mano de cincha, panel acolchonado en la parte posterior para una mayor comodidad.",
-        "price": 99.99,
+        "price": 25000,
         "image": "https://res.cloudinary.com/draqkxx49/image/upload/v1765203993/WhatsApp_Image_2025-11-28_at_11.20.08_gvc30w.jpg",
         "gallery": [
             "https://res.cloudinary.com/draqkxx49/image/upload/v1765204172/WhatsApp_Image_2025-11-28_at_11.16.21_lcxjst.jpg",
@@ -21,18 +21,18 @@
     },
     {
         "id": 2,
-        "name": "Producto 2",
-        "description": "Descripción breve del producto 2. Calidad garantizada.",
-        "longDescription": "Producto innovador con tecnología de vanguardia. Ofrece rendimiento superior y un diseño elegante que se adapta a cualquier estilo de vida.",
-        "price": 149.99,
-        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=200&fit=crop",
+        "name": "Remera Manga Corta - Estampada",
+        "description": "Remera de algodón 100% de manga corta, suave, cómoda y con estampa de alta calidad. Ideal para uso diario.",
+        "longDescription": "Esta remera de manga corta está confeccionada en algodón 100% suave y respirable, lo que la hace perfecta para cualquier ocasión, desde el día a día hasta eventos informales. Su estampa de alta definición mantiene los colores vivos y resistentes al lavado, garantizando durabilidad sin perder estilo. Tiene un calce cómodo y moderno, pensado para brindar libertad de movimiento y acompañar cualquier look. Es la opción ideal para quienes buscan comodidad, calidad y diseño en una sola prenda.",
+        "price": 13000,
+        "image": "https://res.cloudinary.com/draqkxx49/image/upload/v1765131443/WhatsApp_Image_2025-12-01_at_11.29.5_dxf6mi.jpg",
         "gallery": [
-            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=400&fit=crop", "https://res.cloudinary.com/draqkxx49/image/upload/v1763527458/remera-basica-manga-corta-verde-militar-lava8_t4bs04.jpg"],
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765131441/WhatsApp_Image_20_lpxksq.jpg", "https://res.cloudinary.com/draqkxx49/image/upload/v1765131442/WhatsApp_Image_2025-12-01_at_11.23.34_mdxoae.jpg","https://res.cloudinary.com/draqkxx49/image/upload/v1765131442/WhatsApp_Image_2025-12-01_at_11.25.48_xgtlip.jpg","https://res.cloudinary.com/draqkxx49/image/upload/v1765131441/WhatsApp_Image_2025-12-01_at_11.20.25_mcvytq.jpg"],
         "specs": [
-            "Material: Aluminio", 
+            "Material: Algodon", 
             "Peso: 500g",
-            "Dimensiones: 25x15x7 cm",
-            "Garantía: 2 años"
+            "Talle: Consultar disponibilidad",
+            ""
         ] }]
 
         
