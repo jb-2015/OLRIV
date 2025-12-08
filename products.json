@@ -1,21 +1,22 @@
 [
     {
         "id": 1,
-        "name": "Producto 1",
-        "description": "Descripción breve del producto 1. Ideal para tus necesidades diarias.",
-        "longDescription": "Este es un producto de alta calidad diseñado para ofrecer durabilidad y comodidad. Incluye características avanzadas que lo hacen perfecto para uso diario en cualquier entorno.",
+        "name": "Mochilas Hecho Back Pack",
+        "description": "Mochila xl, con doble cierte (tapa y pricipal) ",
+        "longDescription": "Abertura con cremallera de dos sentidos para acceder al compartimineto principal, bolsillo con cremallera en la parte delantera, forro de poliester con refuerzo de poliuretano, correa ajustables, acolchadas y curvadas, asa de mano de cincha, panel acolchonado en la parte posterior para una mayor comodidad.",
         "price": 99.99,
-        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop",
+        "image": "https://res.cloudinary.com/draqkxx49/image/upload/v1765203993/WhatsApp_Image_2025-11-28_at_11.20.08_gvc30w.jpg",
         "gallery": [
-            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
-            "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=400&fit=crop",
-            "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=400&fit=crop"
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765204172/WhatsApp_Image_2025-11-28_at_11.16.21_lcxjst.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765204123/WhatsApp_Image_2025-11-28_at_11.15.36_onmlef.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765203992/WhatsApp_Image_2025-11-28_at_11.19.37_ckgznh.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765203993/WhatsApp_Image_2025-11-28_at_11.18.50_t6zlbb.jpg"
         ],
         "specs": [
-            "Material: Acero inoxidable",
-            "Peso: 500g",
-            "Dimensiones: 20x10x5 cm",
-            "Garantía: 1 año"
+            "",
+            "",
+            "",
+            ""
         ]
     },
     {
@@ -33,3 +34,5 @@
             "Dimensiones: 25x15x7 cm",
             "Garantía: 2 años"
         ] }]
+
+        
