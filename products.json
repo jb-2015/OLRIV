@@ -28,6 +28,25 @@
             "Material: Algodon", 
             "Peso: 500g",
             "Talle: Consultar disponibilidad"
-        ] }]
+        ] },
+    {
+        "id": 3,
+        "name": "Short de baño Hombre",
+        "description": "Liso o con estampas, secado ultrarrapido, con suspensor y cordon regulable",
+        "longDescription": "Renovate para el verano con este short de baño para hombre, confeccionado en tela liviana y de secado rápido que garantiza confort tanto dentro como fuera del agua. Cuenta con elástico en la cintura y cordón interno para un ajuste seguro, además de forro interior y bolsillos laterales para mayor practicidad. Disponible en dos estilos: Estampado geométrico estilo camuflado verde (como en la foto), moderno y llamativo. Colores lisos, para quienes prefieren un look más clásico y minimalista. Perfecto para playa, pileta, viajes o uso diario en días de calor. Fresco, resistente y con un calce súper cómodo.",
+        "price": 13000,
+        "image": "https://res.cloudinary.com/draqkxx49/image/upload/v1765206847/L-M_kqfnr0.jpg",
+        "gallery": [
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765206852/XL-M_pn9xqp.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765206851/XL-L-S_xlc7mo.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765206850/XL2_anrfq0.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765206849/WhatsApp_Image_2025-12-01_at_08.37.13_ljst89.jpg"
+        ],
+        "specs": [
+            "Cintura elastizada con cordón regulable",
+        "Talle: Consultar disponibilidad"
+        ]
+
+    }]
 
         
