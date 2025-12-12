@@ -47,6 +47,25 @@
         "Talle: Consultar disponibilidad"
         ]
 
-    }]
+    },
+{
+        "id": 4,
+        "name": "Musculosa Mujer",
+        "description": "Musculosa de dama, liviana y fresca. Diseño amplio con estampa",
+        "longDescription": "Esta musculosa de dama es ideal para los días de calor gracias a su tela suave, fresca y muy cómoda. Tiene un diseño amplio y moderno que permite total libertad de movimiento, perfecta para uso diario, entrenamiento o looks casuales.",
+        "price": 9000,
+        "image": "https://res.cloudinary.com/draqkxx49/image/upload/v1765512513/WhatsApp_Image_2025-12-01_at_11.54.31_ikl46c.jpg",
+        "gallery": [
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765512514/WhatsApp_Image_2025-12-01_at_11.54_woh27b.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765512513/WhatsApp_Image_2025-12-01_at_11.54.31_ikl46c.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765512510/na_idtamq.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1765512509/fff_skrdjq.jpg"
+        ],
+        "specs": [
+           "Corte amplio y cómodo",
+        "Estampa grande",
+        "Talle: Consultar disponibilidad"
+        ]
+}]
 
         
