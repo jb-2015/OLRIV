@@ -71,7 +71,7 @@ if (!productId) {
                         <p class="precio">$${producto.price}</p>
 
                         <div class="botones">
-                            <a href="https://wa.me/549XXXXXXXXXX?text=Hola,%20quiero%20información%20sobre:%20${encodeURIComponent(producto.name)}"
+                            <a href="https://wa.me/5492664842401?text=Hola,%20quiero%20información%20sobre:%20${encodeURIComponent(producto.name)}"
                                class="btn-whatsapp" target="_blank">Consultar por WhatsApp</a>
 
                             <a href="index.html#catalogo" class="btn-volver">
