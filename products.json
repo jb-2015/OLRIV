@@ -66,6 +66,22 @@
         "Estampa grande",
         "Talle: Consultar disponibilidad"
         ]
-}]
+},
+{
+        "id": 5,
+        "name": "Mochila Hecho Back Pack PDL",
+        "description": "Mochila XL, con doble cierre (tapa y compartimento principal), cierre en la base ideal para zapatillas u otros objetos.",
+        "longDescription": "Mochila XL deportiva, con doble cierre: tapa superior y cierre principal. Cuenta con compartimento inferior independiente, ideal para guardar zapatillas u otros objetos, manteniendo el resto del contenido limpio y ordenado.",
+        "price": 30000,
+        "image": "https://res.cloudinary.com/draqkxx49/image/upload/v1767383053/WhatsApp_Image_2025-11-28_at_11.26.31_lhe8cn.jpg",
+        "gallery": [
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1767383053/WhatsApp_Image_2025-11-28_at_11.26.31_lhe8cn.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1767383052/WhatsApp_Image_2025-11-28_at_11.23.45_udzoil.jpg"
+        ],
+        "specs": [
+           
+        ]
+}
+]
 
         
