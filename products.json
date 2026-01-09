@@ -79,9 +79,27 @@
             "https://res.cloudinary.com/draqkxx49/image/upload/v1767383052/WhatsApp_Image_2025-11-28_at_11.23.45_udzoil.jpg"
         ],
         "specs": [
-           
+              "Compartimento inferior independiente"
         ]
-}
+},
+{
+        "id": 6,
+        "name": "Mochila DIEGCAR",
+        "description": "mochila xxl con doble cierre , cierre vertical en frente y con reguladores en laterales.",
+        "longDescription": "MOCHILA DIEGCAcRonfeccionada en material sintético, con recortes en tono contrastante y detalle de la marca en la parte frontal. Cuenta con cuatro bolsillos, dos de ellos con cierre de cremallera, asa de mano y doble asa de hombro ajustable. Cierre con cremallera. Mide 37 cm de ancho, 50 cm de alto y 19 cm de profundidad, y tiene interior en material sintético con compartimento para portátil.",
+        "price": 50000,
+        "image": "https://res.cloudinary.com/draqkxx49/image/upload/v1767384121/WhatsApp_Image_2025-11-28_at_11.11.01_gial4m.jpg",
+        "gallery": [
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1767384123/WhatsApp_Image_2025-11-28_at_11.11.13_nphxt1.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1767384123/WhatsApp_Image_2025-11-28_at_11.11.07_owk1gm.jpg",
+            "https://res.cloudinary.com/draqkxx49/image/upload/v1767384121/WhatsApp_Image_2025-11-28_at_11.11.01_gial4m.jpg"
+        ],
+        "specs": [
+              "Cierre vertical en el frente",
+              "Reguladores en los laterales"
+        ]
+
+        }
 ]
 
         
