@@ -16,7 +16,7 @@ fetch('products.json')
                     </div>
                 </a>
                 <div class="producto-info" style="padding: 0 20px 20px;">
-                    <a href="https://wa.me/5492664848066?text=Hola,%20quiero%20información%20sobre:%20${encodeURIComponent(producto.name)}" class="btn-whatsapp" target="_blank">Consultar por WhatsApp</a>
+                    <a href="https://wa.me/5492664842401?text=Hola,%20quiero%20información%20sobre:%20${encodeURIComponent(producto.name)}" class="btn-whatsapp" target="_blank">Consultar por WhatsApp</a>
                 </div>
             `;
             productosContainer.appendChild(card);
