@@ -108,8 +108,12 @@ header .container {
     background: linear-gradient(135deg, var(--color-fondo) 0%, var(--color-fondo-secundario) 100%);
     padding: 100px 0 80px;
     text-align: center;
-    margin-top: 70px;
+    margin-top: 126px;
+    margin-bottom: 100px;
     background-image: url(https://res.cloudinary.com/draqkxx49/image/upload/v1768193707/Logo_OLRIV_ljolng.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 636px;
 }
 
 .hero h1 {
