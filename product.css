@@ -1,4 +1,10 @@
+
+
 /* ====== ESTILOS GENERALES ====== */
+:root {
+    --whatsapp: #25d366;
+    --whatsapp-hover: #128c7e;
+}
 body {
     font-family: 'Roboto', Arial, sans-serif;
     margin: 0;
